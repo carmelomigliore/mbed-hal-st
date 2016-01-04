@@ -20,7 +20,7 @@
       "mbed-hal-st-stm32f4": "^1.0.0"
     },
     "stm32l4": {
-      "mbed-hal-st-stm32l4": "carmelomigliore/"
+      "mbed-hal-st-stm32l4": "carmelomigliore/mbed-hal-st-stm32l4"
     }
   }
 }
